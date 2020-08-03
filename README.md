@@ -14,9 +14,10 @@ It uses Chrome Driver and beautiful Soup to search for image in browser
 
 To parse In a search value
 
-Instead of $ python cli -s "search value" (without quotes)
-#Use
-cli -s "search value" (without quotes)
+# Instead of 
+* $ python cli -s "search value" (without quotes)
+# Use
+* cli -s "search value" (without quotes)
 
-
+---
 It automatically search for the first image and stores it a "Downloads" folder which is automatically created
